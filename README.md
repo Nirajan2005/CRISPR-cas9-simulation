@@ -9,9 +9,3 @@ A simple gene editing simulation using CRISPR-Cas9 logic in Python. Built by [Ni
 - Allows random or custom insert/substitute sequences
 - Supports batch editing with max limit
 
-##  How to Use
-
-1. Clone the repo:
-```bash
-git clone https://github.com/yourusername/crispr-simulator.git
-cd crispr-simulator
